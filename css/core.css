@@ -60,7 +60,7 @@ section{
 }
 
 .main section.page1{
-	background: url(../content/start_fon.png) no-repeat;
+	background: url(../content/01.jpg) no-repeat;
 	background-size: cover;
 }	
 
@@ -219,7 +219,7 @@ section.page3 .wrapper_content  h2{
 
 /* Страница 4*/
 .main section.page4{
-	background: url(../content/04.jpg) no-repeat;
+	background: url(../content/page4_fon.png) no-repeat;
 	background-size: cover;
 }	
 
